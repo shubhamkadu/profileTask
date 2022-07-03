@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1656852506974",
+      "name": "IT users",
+      "demographic": "maharastra",
+      "source": " Add by admin",
+      "add": "Ramesh",
+      "date": "30-4-2022",
+      "set": "sela guys",
+      "how": "100",
+      "detail": "info"
+    },
+    {
+      "name": "sales users",
+      "demographic": "maharastra",
+      "source": "Add by admin",
+      "add": "shubham",
+      "date": "30-3-2020",
+      "set": "marathi guys",
+      "how": "45",
+      "detail": "info",
+      "id": "1656855717903"
+    }
+  ]
+}
